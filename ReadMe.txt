@@ -8,10 +8,10 @@ Guia de Execução e Uso - Projeto de Inteligencia Artificial
 
 1. Abra o projeto.
 
-2. Após abrir o projeto no seu editor de código, é necessário estar baixando o requirements.txt, dando um pip install -r, assim baixando as bibliotecas necessárias.
+2. Após abrir o projeto no seu editor de código e abra o terminal, é necessário estar baixando as bibliotecas contidas no requirements.txt, dando um pip install -r requirements.txt, assim baixando as bibliotecas necessárias.
 
-3. O arquivo main esta a inicialização do servidor, com isso basta dar um python .\main.py que estará executando.
-Logo após é necessário copiar o endereço e colar no seu navegador e assim estará executando o projeto.
+3. Ainda no terminal, execute o arquivo principal rodando o comando: python .\main.py
+Após rodar o comando, será exibido o endereço local, copie e cole no seu navegador para utilizar o sistema.
 
 Estrutura de Arquivos:
 
